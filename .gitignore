@@ -1,0 +1,29 @@
+# Code::Blocks temporary and build files
+*.layout
+*.depend
+*.layout.save
+*.cbTemp
+
+# Build output
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# VS Code/IDE files (if used)
+.vscode/
+.idea/
+
+# Logs
+*.log
